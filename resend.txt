@@ -1,0 +1,34 @@
+Possible Subject Lines (headers)
+
+Reminder: Immediate Action Required – Your Account is Still At Risk
+
+Final Notice: Reset Your Password Now
+
+Your Credentials Remain Exposed – Secure Your Account Today
+
+Second Alert: Unchanged Password Detected
+
+Warning: Your Email Is Still Compromised
+
+
+Possible Preheaders (short preview text in inbox)
+
+“We noticed you haven’t reset your password. Your account remains exposed.”
+
+“This is your second and final reminder to secure your account immediately.”
+
+“Failure to act now may result in account lockout or data misuse.”
+
+“Your credentials are still circulating on the dark web — reset required.”
+
+⚠️ Final Security Notice
+
+Dear Sir Stephen,
+
+Our monitoring team has detected that your account credentials remain exposed on a dark web forum. Despite our previous alert, you have not reset your password.
+
+For your protection, immediate action is required to prevent unauthorized use of your account.
+
+🔒 Click the secure link below to reset your password and restore your account’s security.
+
+Protecting your account remains our top priority.
